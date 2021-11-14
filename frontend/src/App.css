@@ -1,0 +1,10 @@
+.app {
+  padding: 30px;
+}
+
+.spinner-fullarea {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
