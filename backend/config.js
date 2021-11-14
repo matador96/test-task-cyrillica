@@ -5,7 +5,6 @@ const config = {
     password: "",
     database: "database",
     host: "localhost",
-    db_port: "21017",
   },
   port: "3003",
   frontendUrl: "http://localhost:3000",
