@@ -8,7 +8,7 @@
 
 # Стек
 
-React/Redux + Bootstrap + react-clock
+React/Node
 
 # Результат
 
